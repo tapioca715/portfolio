@@ -1,5 +1,5 @@
 # portfolio
-## 1차 시안 Demo 구현 및 페이지 생성 완료
+### 1차 시안 Demo 구현 및 페이지 생성 완료
 ### 대표 썸네일 (title page) 
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/106294039/187143942-11c38874-9b8f-4c96-8428-6d03805b309e.png">
 ### title page (플러그인 사용)
