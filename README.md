@@ -7,7 +7,7 @@
 - About 페이지에 자기소개서 및 경력 기술서 바로가기 링크 추가 예정
 - element.scrollIntoView() API를 이용한 페이지 구성으로
   mobile ~ responsive web까지 스크롤로 감상 가능
-  
+- 로고/파비콘 이미지 제작 예정
 ### 대표 썸네일 (title page) 
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/106294039/187143942-11c38874-9b8f-4c96-8428-6d03805b309e.png">
 ### title page (플러그인 사용)
@@ -35,5 +35,5 @@
         .pause(5000)
         .go();
     }
-  });
+
 
