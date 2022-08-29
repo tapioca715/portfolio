@@ -1,6 +1,7 @@
 # portfolio
 ### 1차 시안 Demo 구현 및 페이지 생성 완료
 > 2022.08.29 ver
+> https://tapioca715.github.io/portfolio/
 ### 이후 예정
 - 팀 프로젝트를 포함하여 총 4개의 제작 페이지 수록 예정
 - About 페이지에 자기소개서 및 경력 기술서 바로가기 링크 추가 예정
